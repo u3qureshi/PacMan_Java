@@ -2,6 +2,8 @@
 
 A fully functional Pac-Man game implementation built from scratch using Java Swing, demonstrating object-oriented programming principles, game development patterns, and advanced UI programming techniques.
 
+[![Watch the video](src/images/pacman.gif)]
+
 ## Features
 ### Core Gameplay
 - **Classic Pac-Man mechanics** with smooth character movement
